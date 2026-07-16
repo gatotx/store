@@ -85,14 +85,6 @@
   ],
   "courierRegistry": [
     {
-      "id": "cour-01",
-      "name": "Ahmad Santana",
-      "email": "ahmad@dapurbudhe.com",
-      "pass": "ahmad123",
-      "status": "offline",
-      "lastGps": null
-    },
-    {
       "id": "cour-0698",
       "name": "hauraamjad@gmail.com",
       "email": "hauraamjad@gmail.com",
@@ -115,6 +107,14 @@
       "email": "hauraamjad@gmail.com",
       "pass": "123456",
       "phone": "085215957232",
+      "status": "offline",
+      "lastGps": null
+    },
+    {
+      "id": "cour-01",
+      "name": "Ahmad Santana",
+      "email": "ahmad@dapurbudhe.com",
+      "pass": "ahmad123",
       "status": "offline",
       "lastGps": null
     }
@@ -229,5 +229,5 @@
       "paymentStatus": "COD (Lunas saat tiba)"
     }
   ],
-  "checksum": "checksum_1784240154343"
+  "checksum": "checksum_1784240174565"
 }
