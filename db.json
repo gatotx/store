@@ -76,6 +76,11 @@
       "id": 1784225677570,
       "keyword": "dengok",
       "fee": 3000
+    },
+    {
+      "id": 1784225688304,
+      "keyword": "blimbing",
+      "fee": 3000
     }
   ],
   "courierRegistry": [
@@ -89,5 +94,5 @@
     }
   ],
   "orders": [],
-  "checksum": "checksum_1784225677571"
+  "checksum": "checksum_1784225688305"
 }
