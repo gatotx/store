@@ -76,6 +76,14 @@
       "pass": "ahmad123",
       "status": "offline",
       "lastGps": null
+    },
+    {
+      "id": "cour-6736",
+      "name": "yoyon",
+      "email": "hauraamjad@gmail.com",
+      "pass": "123456",
+      "status": "offline",
+      "lastGps": null
     }
   ],
   "orders": [
@@ -107,5 +115,5 @@
       "paymentStatus": "COD (Lunas saat tiba)"
     }
   ],
-  "checksum": "checksum_1784216743498"
+  "checksum": "checksum_1784216766759"
 }
