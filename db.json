@@ -85,15 +85,6 @@
   ],
   "courierRegistry": [
     {
-      "id": "cour-0698",
-      "name": "hauraamjad@gmail.com",
-      "email": "hauraamjad@gmail.com",
-      "pass": "123456",
-      "phone": "hauraamjad@gmail.com",
-      "status": "online",
-      "lastGps": "-6.876666,112.2738546"
-    },
-    {
       "id": "cour-4341",
       "name": "hauraamjad@gmail.com",
       "email": "hauraamjad@gmail.com",
@@ -117,6 +108,15 @@
       "pass": "123456",
       "status": "offline",
       "lastGps": null
+    },
+    {
+      "id": "cour-0698",
+      "name": "hauraamjad@gmail.com",
+      "email": "hauraamjad@gmail.com",
+      "pass": "123456",
+      "phone": "hauraamjad@gmail.com",
+      "status": "online",
+      "lastGps": "-6.876666,112.2738546"
     }
   ],
   "orders": [
@@ -229,5 +229,5 @@
       "paymentStatus": "COD (Lunas saat tiba)"
     }
   ],
-  "checksum": "checksum_1784240177817"
+  "checksum": "checksum_1784240187163"
 }
