@@ -1,6 +1,6 @@
 {
   "config": {
-    "storeName": "Dapur Budhe VVIP",
+    "storeName": "hauraamjad@gmail.com",
     "storeTagline": "Premium Pudding & Gorengan Level VVIP No. 1 Dunia",
     "logoUrl": "https://raw.githubusercontent.com/gatotx/gambar/refs/heads/main/IMG-20260704-WA9078.png",
     "colorPrimary": "#075036",
@@ -193,5 +193,5 @@
       "paymentStatus": "COD (Lunas saat tiba)"
     }
   ],
-  "checksum": "checksum_1784239672122"
+  "checksum": "checksum_1784239674750"
 }
