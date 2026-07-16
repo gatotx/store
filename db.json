@@ -82,8 +82,8 @@
       "name": "yoyon",
       "email": "a@gmail.com",
       "pass": "123456",
-      "status": "offline",
-      "lastGps": null
+      "status": "online",
+      "lastGps": "-6.8795994,112.2988084"
     }
   ],
   "orders": [
@@ -115,5 +115,5 @@
       "paymentStatus": "COD (Lunas saat tiba)"
     }
   ],
-  "checksum": "checksum_1784221782111"
+  "checksum": "checksum_1784221814426"
 }
