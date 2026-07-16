@@ -93,19 +93,19 @@
       "lastGps": null
     },
     {
-      "id": "cour-5723",
-      "name": "yoyon",
-      "email": "a@gmail.com",
-      "pass": "123456",
-      "status": "offline",
-      "lastGps": null
-    },
-    {
       "id": "cour-0698",
       "name": "hauraamjad@gmail.com",
       "email": "hauraamjad@gmail.com",
       "pass": "123456",
       "phone": "hauraamjad@gmail.com",
+      "status": "offline",
+      "lastGps": null
+    },
+    {
+      "id": "cour-5723",
+      "name": "yoyon",
+      "email": "a@gmail.com",
+      "pass": "123456",
       "status": "offline",
       "lastGps": null
     }
@@ -193,5 +193,5 @@
       "paymentStatus": "COD (Lunas saat tiba)"
     }
   ],
-  "checksum": "checksum_1784239660704"
+  "checksum": "checksum_1784239667831"
 }
