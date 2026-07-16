@@ -71,6 +71,11 @@
       "id": 1784225662716,
       "keyword": "paciran",
       "fee": 5000
+    },
+    {
+      "id": 1784225677570,
+      "keyword": "dengok",
+      "fee": 3000
     }
   ],
   "courierRegistry": [
@@ -84,5 +89,5 @@
     }
   ],
   "orders": [],
-  "checksum": "checksum_1784225662732"
+  "checksum": "checksum_1784225677571"
 }
