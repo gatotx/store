@@ -83,7 +83,7 @@
       "email": "a@gmail.com",
       "pass": "123456",
       "status": "online",
-      "lastGps": "-6.8795936,112.298792"
+      "lastGps": "-6.8795992,112.2988081"
     }
   ],
   "orders": [
@@ -115,5 +115,5 @@
       "paymentStatus": "COD (Lunas saat tiba)"
     }
   ],
-  "checksum": "checksum_1784222278833"
+  "checksum": "checksum_1784222284832"
 }
