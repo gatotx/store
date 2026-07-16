@@ -162,7 +162,7 @@
       "shipping": 10000,
       "grandTotal": 595000,
       "status": "dikirim",
-      "courierId": null,
+      "courierId": "cour-0698",
       "paymentStatus": "COD (Lunas saat tiba)"
     },
     {
@@ -220,5 +220,5 @@
       "paymentStatus": "COD (Lunas saat tiba)"
     }
   ],
-  "checksum": "checksum_1784239881209"
+  "checksum": "checksum_1784239959318"
 }
