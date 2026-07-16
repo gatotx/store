@@ -94,14 +94,6 @@
       "lastGps": "-6.876666,112.2738546"
     },
     {
-      "id": "cour-5723",
-      "name": "yoyon",
-      "email": "a@gmail.com",
-      "pass": "123456",
-      "status": "offline",
-      "lastGps": null
-    },
-    {
       "id": "cour-4341",
       "name": "hauraamjad@gmail.com",
       "email": "hauraamjad@gmail.com",
@@ -115,6 +107,14 @@
       "name": "Ahmad Santana",
       "email": "ahmad@dapurbudhe.com",
       "pass": "ahmad123",
+      "status": "offline",
+      "lastGps": null
+    },
+    {
+      "id": "cour-5723",
+      "name": "yoyon",
+      "email": "a@gmail.com",
+      "pass": "123456",
       "status": "offline",
       "lastGps": null
     }
@@ -229,5 +229,5 @@
       "paymentStatus": "COD (Lunas saat tiba)"
     }
   ],
-  "checksum": "checksum_1784240174565"
+  "checksum": "checksum_1784240177817"
 }
