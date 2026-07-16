@@ -1,0 +1,82 @@
+{
+  "config": {
+    "storeName": "Dapur Budhe VVIP",
+    "storeTagline": "Premium Pudding & Gorengan Level VVIP No. 1 Dunia",
+    "logoUrl": "https://raw.githubusercontent.com/gatotx/gambar/refs/heads/main/IMG-20260704-WA9078.png",
+    "colorPrimary": "#075036",
+    "colorAccent": "#d4af37",
+    "storeStatus": "open",
+    "fontFamily": "sans",
+    "cornerStyle": "rounded",
+    "themeMode": "auto"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Premium Lotus Biscoff Pudding",
+      "type": "pudding",
+      "price": 65000,
+      "img": "https://images.unsplash.com/photo-1579954115545-a95e263ab958?auto=format&fit=crop&w=600&q=80",
+      "desc": "Pudding premium lapis biskuit speculoos krispi asli.",
+      "promo": true,
+      "calories": "320 Kcal",
+      "preptime": "15 Mins"
+    },
+    {
+      "id": 2,
+      "name": "Gorengan Bakwan Truffle",
+      "type": "gorengan",
+      "price": 45000,
+      "img": "https://images.unsplash.com/photo-1601314167180-5753065a7fcd?auto=format&fit=crop&w=600&q=80",
+      "desc": "Bakwan sayur organik dengan aroma minyak truffle istimewa.",
+      "promo": false,
+      "calories": "280 Kcal",
+      "preptime": "10 Mins"
+    },
+    {
+      "id": 3,
+      "name": "Pudding Coklat Swiss Valrhona",
+      "type": "pudding",
+      "price": 85000,
+      "img": "https://images.unsplash.com/photo-1551024506-0baa27542c81?auto=format&fit=crop&w=600&q=80",
+      "desc": "Pudding lezat menggunakan dark chocolate murni Swiss 70%.",
+      "promo": false,
+      "calories": "450 Kcal",
+      "preptime": "20 Mins"
+    },
+    {
+      "id": 4,
+      "name": "Pisang Goreng Keju Sultan",
+      "type": "gorengan",
+      "price": 35000,
+      "img": "https://images.unsplash.com/photo-1596634629471-a0c3bbd11fc4?auto=format&fit=crop&w=600&q=80",
+      "desc": "Pisang kepok manis berbalut keju premium dari Belanda.",
+      "promo": true,
+      "calories": "380 Kcal",
+      "preptime": "12 Mins"
+    }
+  ],
+  "shippingRules": [
+    {
+      "id": 1,
+      "keyword": "sedayulawas",
+      "fee": 3000
+    },
+    {
+      "id": 2,
+      "keyword": "brondong",
+      "fee": 5000
+    }
+  ],
+  "courierRegistry": [
+    {
+      "id": "cour-01",
+      "name": "Ahmad Santana",
+      "email": "ahmad@dapurbudhe.com",
+      "pass": "ahmad123",
+      "status": "offline",
+      "lastGps": null
+    }
+  ],
+  "orders": []
+}
