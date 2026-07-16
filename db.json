@@ -66,6 +66,11 @@
       "id": 2,
       "keyword": "brondong",
       "fee": 5000
+    },
+    {
+      "id": 1784225662716,
+      "keyword": "paciran",
+      "fee": 5000
     }
   ],
   "courierRegistry": [
@@ -79,5 +84,5 @@
     }
   ],
   "orders": [],
-  "checksum": "checksum_1784225312362"
+  "checksum": "checksum_1784225662732"
 }
