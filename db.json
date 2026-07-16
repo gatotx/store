@@ -98,16 +98,16 @@
       "email": "hauraamjad@gmail.com",
       "pass": "123456",
       "phone": "hauraamjad@gmail.com",
-      "status": "offline",
-      "lastGps": null
+      "status": "online",
+      "lastGps": "-6.876666,112.2738546"
     },
     {
       "id": "cour-5723",
       "name": "yoyon",
       "email": "a@gmail.com",
       "pass": "123456",
-      "status": "online",
-      "lastGps": "-6.876666,112.2738546"
+      "status": "offline",
+      "lastGps": null
     }
   ],
   "orders": [
@@ -193,5 +193,5 @@
       "paymentStatus": "COD (Lunas saat tiba)"
     }
   ],
-  "checksum": "checksum_1784239686229"
+  "checksum": "checksum_1784239707752"
 }
