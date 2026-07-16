@@ -125,10 +125,10 @@
       "subTotal": 85000,
       "shipping": 10000,
       "grandTotal": 95000,
-      "status": "dikirim",
-      "courierId": null,
+      "status": "proses",
+      "courierId": "cour-5723",
       "paymentStatus": "COD (Lunas saat tiba)"
     }
   ],
-  "checksum": "checksum_1784233288343"
+  "checksum": "checksum_1784233290396"
 }
