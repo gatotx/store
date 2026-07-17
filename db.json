@@ -1,14 +1,14 @@
 {
   "sysGenerator": {
-    "storeTagline": "Premium Pudding & Gorengan Level VVIP No. 1 Dunia",
     "logoUrl": "https://raw.githubusercontent.com/gatotx/gambar/refs/heads/main/IMG-20260704-WA9078.png",
     "colorPrimary": "#075036",
     "colorAccent": "#d4af37",
+    "storeName": "Dapur Budhe",
+    "storeTagline": "Pudding & Gorengan Level VVIP No. 1 Dunia",
     "storeStatus": "open",
     "fontFamily": "sans",
     "cornerStyle": "rounded",
-    "themeMode": "auto",
-    "storeName": "hauraamjad@gmail.com"
+    "themeMode": "auto"
   },
   "products": [
     {
@@ -66,72 +66,28 @@
       "id": 2,
       "keyword": "brondong",
       "fee": 5000
-    },
-    {
-      "id": 1784225662716,
-      "keyword": "paciran",
-      "fee": 5000
-    },
-    {
-      "id": 1784225677570,
-      "keyword": "dengok",
-      "fee": 3000
-    },
-    {
-      "id": 1784225688304,
-      "keyword": "blimbing",
-      "fee": 3000
     }
   ],
   "courierRegistry": [
-    {
-      "id": "cour-4341",
-      "name": "hauraamjad@gmail.com",
-      "email": "hauraamjad@gmail.com",
-      "pass": "123456",
-      "phone": "085215957232",
-      "status": "offline",
-      "lastGps": null
-    },
     {
       "id": "cour-01",
       "name": "Ahmad Santana",
       "email": "ahmad@dapurbudhe.com",
       "pass": "ahmad123",
+      "phone": "08123456789",
       "status": "offline",
       "lastGps": null
-    },
-    {
-      "id": "cour-5723",
-      "name": "yoyon",
-      "email": "a@gmail.com",
-      "pass": "123456",
-      "status": "offline",
-      "lastGps": {
-        "lat": -6.8766667,
-        "lng": 112.2738534,
-        "timestamp": 1784260181987
-      }
-    },
-    {
-      "id": "cour-0698",
-      "name": "hauraamjad@gmail.com",
-      "email": "hauraamjad@gmail.com",
-      "pass": "123456",
-      "phone": "hauraamjad@gmail.com",
-      "status": "online",
-      "lastGps": "-6.876666,112.2738546"
     }
   ],
   "orders": [
     {
-      "id": "DB-895142-27",
-      "date": "2026-07-17T03:44:55.143Z",
+      "id": "DB-539569-15",
+      "date": "2026-07-17T09:12:19.569Z",
       "customer": {
-        "name": "085215957232",
-        "phone": "085215957232",
+        "name": "zzx",
+        "phone": "085588",
         "address": "dengok",
-        "gps": "-6.876659, 112.273853",
+        "gps": "-6.876668, 112.273851",
         "note": ""
       },
       "items": [
@@ -150,12 +106,12 @@
         }
       ],
       "subtotal": 65000,
-      "shippingFee": 3000,
-      "total": 68000,
-      "status": "complete",
-      "courierId": "cour-5723",
+      "shippingFee": 10000,
+      "total": 75000,
+      "status": "pending",
+      "courierId": null,
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-17T03:49:43.269Z"
+  "lastSync": "2026-07-17T09:12:43.811Z"
 }
