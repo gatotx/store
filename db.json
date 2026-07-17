@@ -113,8 +113,8 @@
       "status": "online",
       "lastGps": {
         "lat": -6.8766602,
-        "lng": 112.2738503,
-        "timestamp": 1784292606884
+        "lng": 112.2738504,
+        "timestamp": 1784292612792
       }
     }
   ],
@@ -197,5 +197,5 @@
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-17T12:50:06.886Z"
+  "lastSync": "2026-07-17T12:50:12.795Z"
 }
