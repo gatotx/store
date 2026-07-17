@@ -106,7 +106,7 @@
       "name": "yoyon",
       "email": "a@gmail.com",
       "pass": "123456",
-      "status": "online",
+      "status": "offline",
       "lastGps": {
         "lat": -6.8766667,
         "lng": 112.2738534,
@@ -157,5 +157,5 @@
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-17T03:48:14.218Z"
+  "lastSync": "2026-07-17T03:48:20.575Z"
 }
