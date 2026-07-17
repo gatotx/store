@@ -131,9 +131,9 @@
       "shippingFee": 3000,
       "total": 68000,
       "status": "otb",
-      "courierId": null,
+      "courierId": "cour-5723",
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-17T12:33:49.798Z"
+  "lastSync": "2026-07-17T12:33:53.456Z"
 }
