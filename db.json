@@ -114,6 +114,52 @@
       "lastGps": null
     }
   ],
-  "orders": [],
-  "lastSync": "2026-07-17T12:40:19.267Z"
+  "orders": [
+    {
+      "id": "DB-077586-14",
+      "date": "2026-07-17T12:41:17.586Z",
+      "customer": {
+        "name": "mila",
+        "phone": "+6285215957232",
+        "address": "brondong",
+        "gps": "-6.876669, 112.273846",
+        "note": ""
+      },
+      "items": [
+        {
+          "id": 4,
+          "name": "Pisang Goreng Keju Sultan",
+          "type": "gorengan",
+          "price": 35000,
+          "img": "https://images.unsplash.com/photo-1596634629471-a0c3bbd11fc4?auto=format&fit=crop&w=600&q=80",
+          "desc": "Pisang kepok manis berbalut keju premium dari Belanda.",
+          "promo": true,
+          "calories": "380 Kcal",
+          "preptime": "12 Mins",
+          "qty": 2,
+          "note": ""
+        },
+        {
+          "id": 3,
+          "name": "Pudding Coklat Swiss Valrhona",
+          "type": "pudding",
+          "price": 85000,
+          "img": "https://images.unsplash.com/photo-1551024506-0baa27542c81?auto=format&fit=crop&w=600&q=80",
+          "desc": "Pudding lezat menggunakan dark chocolate murni Swiss 70%.",
+          "promo": false,
+          "calories": "450 Kcal",
+          "preptime": "20 Mins",
+          "qty": 1,
+          "note": ""
+        }
+      ],
+      "subtotal": 155000,
+      "shippingFee": 5000,
+      "total": 160000,
+      "status": "pending",
+      "courierId": null,
+      "liveTrackUrl": null
+    }
+  ],
+  "lastSync": "2026-07-17T12:41:17.588Z"
 }
