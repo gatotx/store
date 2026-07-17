@@ -106,8 +106,12 @@
       "name": "yoyon",
       "email": "a@gmail.com",
       "pass": "123456",
-      "status": "offline",
-      "lastGps": null
+      "status": "online",
+      "lastGps": {
+        "lat": -6.8766667,
+        "lng": 112.2738534,
+        "timestamp": 1784260043128
+      }
     },
     {
       "id": "cour-0698",
@@ -148,10 +152,10 @@
       "subtotal": 65000,
       "shippingFee": 3000,
       "total": 68000,
-      "status": "otb",
-      "courierId": "cour-0698",
+      "status": "pending",
+      "courierId": null,
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-17T03:46:12.261Z"
+  "lastSync": "2026-07-17T03:47:23.129Z"
 }
