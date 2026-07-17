@@ -108,10 +108,10 @@
       "subtotal": 65000,
       "shippingFee": 3000,
       "total": 68000,
-      "status": "pending",
+      "status": "otb",
       "courierId": null,
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-17T20:38:36.568Z"
+  "lastSync": "2026-07-17T20:39:39.781Z"
 }
