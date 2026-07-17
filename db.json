@@ -81,6 +81,38 @@
   ],
   "orders": [
     {
+      "id": "DB-771380-10",
+      "date": "2026-07-17T11:46:11.380Z",
+      "customer": {
+        "name": "alberga",
+        "phone": "085215957232",
+        "address": "sedayulawas",
+        "gps": "-6.876669, 112.273852",
+        "note": ""
+      },
+      "items": [
+        {
+          "id": 3,
+          "name": "Pudding Coklat Swiss Valrhona",
+          "type": "pudding",
+          "price": 85000,
+          "img": "https://images.unsplash.com/photo-1551024506-0baa27542c81?auto=format&fit=crop&w=600&q=80",
+          "desc": "Pudding lezat menggunakan dark chocolate murni Swiss 70%.",
+          "promo": false,
+          "calories": "450 Kcal",
+          "preptime": "20 Mins",
+          "qty": 1,
+          "note": ""
+        }
+      ],
+      "subtotal": 85000,
+      "shippingFee": 3000,
+      "total": 88000,
+      "status": "pending",
+      "courierId": null,
+      "liveTrackUrl": null
+    },
+    {
       "id": "DB-539569-15",
       "date": "2026-07-17T09:12:19.569Z",
       "customer": {
@@ -113,5 +145,5 @@
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-17T09:13:35.743Z"
+  "lastSync": "2026-07-17T11:46:11.383Z"
 }
