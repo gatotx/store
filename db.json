@@ -1,5 +1,5 @@
 {
-  "config": {
+  "sysGenerator": {
     "logoUrl": "https://raw.githubusercontent.com/gatotx/gambar/refs/heads/main/IMG-20260704-WA9078.png",
     "colorPrimary": "#075036",
     "colorAccent": "#d4af37",
@@ -7,8 +7,8 @@
     "fontFamily": "sans",
     "cornerStyle": "rounded",
     "themeMode": "auto",
-    "storeName": "Dapur Budhe",
-    "storeTagline": "Pudding & Gorengan Level VVIP No. 1 Dunia"
+    "storeName": "Dapur Budhe VVIP",
+    "storeTagline": "Premium Pudding & Gorengan Level VVIP No. 1 Dunia"
   },
   "products": [
     {
@@ -66,6 +66,21 @@
       "id": 2,
       "keyword": "brondong",
       "fee": 5000
+    },
+    {
+      "id": 1784225662716,
+      "keyword": "paciran",
+      "fee": 5000
+    },
+    {
+      "id": 1784225677570,
+      "keyword": "dengok",
+      "fee": 3000
+    },
+    {
+      "id": 1784225688304,
+      "keyword": "blimbing",
+      "fee": 3000
     }
   ],
   "courierRegistry": [
@@ -74,43 +89,18 @@
       "name": "Ahmad Santana",
       "email": "ahmad@dapurbudhe.com",
       "pass": "ahmad123",
-      "phone": "08123456789",
       "status": "offline",
       "lastGps": null
+    },
+    {
+      "id": "cour-5723",
+      "name": "yoyon",
+      "email": "a@gmail.com",
+      "pass": "123456",
+      "status": "online",
+      "lastGps": "-6.8795999,112.2988107"
     }
   ],
-  "orders": [
-    {
-      "id": "DB-652544-60",
-      "date": "2026-07-17T12:17:32.545Z",
-      "customer": {
-        "name": "yoyon",
-        "phone": "085215957232",
-        "address": "sedayulawas",
-        "gps": "-6.876662, 112.273851",
-        "note": ""
-      },
-      "items": [
-        {
-          "id": 1,
-          "name": "Premium Lotus Biscoff Pudding",
-          "type": "pudding",
-          "price": 65000,
-          "img": "https://images.unsplash.com/photo-1579954115545-a95e263ab958?auto=format&fit=crop&w=600&q=80",
-          "desc": "Pudding premium lapis biskuit speculoos krispi asli.",
-          "promo": true,
-          "calories": "320 Kcal",
-          "preptime": "15 Mins",
-          "qty": 1,
-          "note": ""
-        }
-      ],
-      "subtotal": 65000,
-      "shippingFee": 3000,
-      "total": 68000,
-      "status": "pending",
-      "courierId": null,
-      "liveTrackUrl": null
-    }
-  ]
+  "orders": [],
+  "lastSync": "2026-07-17T12:31:20.932Z"
 }
