@@ -110,8 +110,12 @@
       "email": "z@gmail.com",
       "phone": "+6285215957232",
       "pass": "123456",
-      "status": "offline",
-      "lastGps": null
+      "status": "online",
+      "lastGps": {
+        "lat": -6.8766602,
+        "lng": 112.2738495,
+        "timestamp": 1784292176492
+      }
     }
   ],
   "orders": [
@@ -156,10 +160,10 @@
       "subtotal": 155000,
       "shippingFee": 5000,
       "total": 160000,
-      "status": "otb",
-      "courierId": "cour-5175",
+      "status": "pending",
+      "courierId": null,
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-17T12:42:20.263Z"
+  "lastSync": "2026-07-17T12:42:56.501Z"
 }
