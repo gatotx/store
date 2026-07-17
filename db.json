@@ -98,7 +98,11 @@
       "email": "a@gmail.com",
       "pass": "123456",
       "status": "online",
-      "lastGps": "-6.8795999,112.2988107"
+      "lastGps": {
+        "lat": -6.8766603,
+        "lng": 112.2738485,
+        "timestamp": 1784291675469
+      }
     }
   ],
   "orders": [
@@ -130,10 +134,10 @@
       "subtotal": 65000,
       "shippingFee": 3000,
       "total": 68000,
-      "status": "otb",
-      "courierId": "cour-5723",
+      "status": "pending",
+      "courierId": null,
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-17T12:33:55.830Z"
+  "lastSync": "2026-07-17T12:34:35.470Z"
 }
