@@ -119,6 +119,39 @@
       "lastGps": "-6.876666,112.2738546"
     }
   ],
-  "orders": [],
-  "lastSync": "2026-07-17T03:33:25.033Z"
+  "orders": [
+    {
+      "id": "DB-895142-27",
+      "date": "2026-07-17T03:44:55.143Z",
+      "customer": {
+        "name": "085215957232",
+        "phone": "085215957232",
+        "address": "dengok",
+        "gps": "-6.876659, 112.273853",
+        "note": ""
+      },
+      "items": [
+        {
+          "id": 1,
+          "name": "Premium Lotus Biscoff Pudding",
+          "type": "pudding",
+          "price": 65000,
+          "img": "https://images.unsplash.com/photo-1579954115545-a95e263ab958?auto=format&fit=crop&w=600&q=80",
+          "desc": "Pudding premium lapis biskuit speculoos krispi asli.",
+          "promo": true,
+          "calories": "320 Kcal",
+          "preptime": "15 Mins",
+          "qty": 1,
+          "note": ""
+        }
+      ],
+      "subtotal": 65000,
+      "shippingFee": 3000,
+      "total": 68000,
+      "status": "pending",
+      "courierId": null,
+      "liveTrackUrl": null
+    }
+  ],
+  "lastSync": "2026-07-17T03:44:55.146Z"
 }
