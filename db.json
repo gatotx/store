@@ -3,11 +3,11 @@
     "logoUrl": "https://raw.githubusercontent.com/gatotx/gambar/refs/heads/main/IMG-20260704-WA9078.png",
     "colorPrimary": "#075036",
     "colorAccent": "#d4af37",
-    "storeStatus": "open",
+    "storeStatus": "closed",
     "fontFamily": "sans",
     "cornerStyle": "rounded",
     "themeMode": "auto",
-    "storeName": "undefined",
+    "storeName": "gatot kaca",
     "storeTagline": "undefined"
   },
   "products": [
@@ -126,5 +126,5 @@
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-17T21:43:30.808Z"
+  "lastSync": "2026-07-17T21:44:09.975Z"
 }
