@@ -1,7 +1,5 @@
 {
-  "config": {
-    "storeName": "hauraamjad@gmail.com",
-    "storeTagline": "Premium Pudding & Gorengan Level VVIP No. 1 Dunia",
+  "sysGenerator": {
     "logoUrl": "https://raw.githubusercontent.com/gatotx/gambar/refs/heads/main/IMG-20260704-WA9078.png",
     "colorPrimary": "#075036",
     "colorAccent": "#d4af37",
@@ -66,21 +64,6 @@
       "id": 2,
       "keyword": "brondong",
       "fee": 5000
-    },
-    {
-      "id": 1784225662716,
-      "keyword": "paciran",
-      "fee": 5000
-    },
-    {
-      "id": 1784225677570,
-      "keyword": "dengok",
-      "fee": 3000
-    },
-    {
-      "id": 1784225688304,
-      "keyword": "blimbing",
-      "fee": 3000
     }
   ],
   "courierRegistry": [
@@ -89,140 +72,11 @@
       "name": "Ahmad Santana",
       "email": "ahmad@dapurbudhe.com",
       "pass": "ahmad123",
+      "phone": "08123456789",
       "status": "offline",
       "lastGps": null
-    },
-    {
-      "id": "cour-5723",
-      "name": "yoyon",
-      "email": "a@gmail.com",
-      "pass": "123456",
-      "status": "online",
-      "lastGps": {
-        "lat": -6.8766613,
-        "lng": 112.2738507,
-        "timestamp": 1784291883320
-      }
-    },
-    {
-      "id": "cour-5175",
-      "name": "alberga",
-      "email": "z@gmail.com",
-      "phone": "+6285215957232",
-      "pass": "123456",
-      "status": "online",
-      "lastGps": {
-        "lat": -6.8766664,
-        "lng": 112.2738447,
-        "timestamp": 1784292727073
-      }
     }
   ],
-  "orders": [
-    {
-      "id": "INV-477117",
-      "date": "18 Jul 2026, 03.34",
-      "client": {
-        "name": "Dapur Budhe VVIP",
-        "phone": "Dapur Budhe VVIP",
-        "address": "sedayulawas",
-        "gps": "-6.203531, 106.823416",
-        "note": ""
-      },
-      "items": [
-        {
-          "id": 1,
-          "name": "Premium Lotus Biscoff Pudding",
-          "price": 65000,
-          "qty": 1,
-          "img": "https://images.unsplash.com/photo-1579954115545-a95e263ab958?auto=format&fit=crop&w=600&q=80",
-          "note": ""
-        }
-      ],
-      "subTotal": 65000,
-      "shipping": 3000,
-      "grandTotal": 68000,
-      "status": "selesai",
-      "courierId": "cour-5723",
-      "paymentStatus": "COD (Lunas saat tiba)"
-    },
-    {
-      "id": "DB-466718-9",
-      "date": "2026-07-17T12:47:46.719Z",
-      "customer": {
-        "name": "mr. adab",
-        "phone": "+6285215957232",
-        "address": "sedayulawas",
-        "gps": "-6.876661, 112.273846",
-        "note": ""
-      },
-      "items": [
-        {
-          "id": 1,
-          "name": "Premium Lotus Biscoff Pudding",
-          "type": "pudding",
-          "price": 65000,
-          "img": "https://images.unsplash.com/photo-1579954115545-a95e263ab958?auto=format&fit=crop&w=600&q=80",
-          "desc": "Pudding premium lapis biskuit speculoos krispi asli.",
-          "promo": true,
-          "calories": "320 Kcal",
-          "preptime": "15 Mins",
-          "qty": 1,
-          "note": ""
-        }
-      ],
-      "subtotal": 65000,
-      "shippingFee": 3000,
-      "total": 68000,
-      "status": "otb",
-      "courierId": "cour-5175",
-      "liveTrackUrl": null
-    },
-    {
-      "id": "DB-077586-14",
-      "date": "2026-07-17T12:41:17.586Z",
-      "customer": {
-        "name": "mila",
-        "phone": "+6285215957232",
-        "address": "brondong",
-        "gps": "-6.876669, 112.273846",
-        "note": ""
-      },
-      "items": [
-        {
-          "id": 4,
-          "name": "Pisang Goreng Keju Sultan",
-          "type": "gorengan",
-          "price": 35000,
-          "img": "https://images.unsplash.com/photo-1596634629471-a0c3bbd11fc4?auto=format&fit=crop&w=600&q=80",
-          "desc": "Pisang kepok manis berbalut keju premium dari Belanda.",
-          "promo": true,
-          "calories": "380 Kcal",
-          "preptime": "12 Mins",
-          "qty": 2,
-          "note": ""
-        },
-        {
-          "id": 3,
-          "name": "Pudding Coklat Swiss Valrhona",
-          "type": "pudding",
-          "price": 85000,
-          "img": "https://images.unsplash.com/photo-1551024506-0baa27542c81?auto=format&fit=crop&w=600&q=80",
-          "desc": "Pudding lezat menggunakan dark chocolate murni Swiss 70%.",
-          "promo": false,
-          "calories": "450 Kcal",
-          "preptime": "20 Mins",
-          "qty": 1,
-          "note": ""
-        }
-      ],
-      "subtotal": 155000,
-      "shippingFee": 5000,
-      "total": 160000,
-      "status": "complete",
-      "courierId": "cour-5175",
-      "liveTrackUrl": null
-    }
-  ],
-  "checksum": "checksum_1784320582753"
+  "orders": [],
+  "lastSync": "2026-07-17T20:36:57.746Z"
 }
