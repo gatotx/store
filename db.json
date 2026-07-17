@@ -160,10 +160,10 @@
       "subtotal": 155000,
       "shippingFee": 5000,
       "total": 160000,
-      "status": "otb",
+      "status": "complete",
       "courierId": "cour-5175",
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-17T12:43:24.721Z"
+  "lastSync": "2026-07-17T12:46:20.140Z"
 }
