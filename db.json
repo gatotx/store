@@ -112,9 +112,9 @@
       "pass": "123456",
       "status": "online",
       "lastGps": {
-        "lat": -6.876666,
+        "lat": -6.8766661,
         "lng": 112.273845,
-        "timestamp": 1784292697620
+        "timestamp": 1784292703479
       }
     }
   ],
@@ -197,5 +197,5 @@
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-17T12:51:37.621Z"
+  "lastSync": "2026-07-17T12:51:43.481Z"
 }
