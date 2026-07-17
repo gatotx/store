@@ -142,7 +142,7 @@
       "subTotal": 65000,
       "shipping": 3000,
       "grandTotal": 68000,
-      "status": "dikirim",
+      "status": "selesai",
       "courierId": "cour-5723",
       "paymentStatus": "COD (Lunas saat tiba)"
     },
@@ -224,5 +224,5 @@
       "liveTrackUrl": null
     }
   ],
-  "checksum": "checksum_1784320576574"
+  "checksum": "checksum_1784320582753"
 }
