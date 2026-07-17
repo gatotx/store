@@ -103,8 +103,17 @@
         "lng": 112.2738507,
         "timestamp": 1784291883320
       }
+    },
+    {
+      "id": "cour-5175",
+      "name": "alberga",
+      "email": "z@gmail.com",
+      "phone": "+6285215957232",
+      "pass": "123456",
+      "status": "offline",
+      "lastGps": null
     }
   ],
   "orders": [],
-  "lastSync": "2026-07-17T12:39:23.007Z"
+  "lastSync": "2026-07-17T12:40:15.183Z"
 }
