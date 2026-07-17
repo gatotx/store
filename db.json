@@ -6,7 +6,9 @@
     "storeStatus": "open",
     "fontFamily": "sans",
     "cornerStyle": "rounded",
-    "themeMode": "auto"
+    "themeMode": "auto",
+    "storeName": "undefined",
+    "storeTagline": "undefined"
   },
   "products": [
     {
@@ -111,5 +113,5 @@
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-17T20:38:15.419Z"
+  "lastSync": "2026-07-17T20:38:36.568Z"
 }
