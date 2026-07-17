@@ -1,14 +1,14 @@
 {
-  "sysGenerator": {
+  "config": {
     "logoUrl": "https://raw.githubusercontent.com/gatotx/gambar/refs/heads/main/IMG-20260704-WA9078.png",
     "colorPrimary": "#075036",
     "colorAccent": "#d4af37",
-    "storeName": "Dapur Budhe",
-    "storeTagline": "Pudding & Gorengan Level VVIP No. 1 Dunia",
     "storeStatus": "open",
     "fontFamily": "sans",
     "cornerStyle": "rounded",
-    "themeMode": "auto"
+    "themeMode": "auto",
+    "storeName": "Dapur Budhe",
+    "storeTagline": "Pudding & Gorengan Level VVIP No. 1 Dunia"
   },
   "products": [
     {
@@ -112,6 +112,5 @@
       "courierId": null,
       "liveTrackUrl": null
     }
-  ],
-  "lastSync": "2026-07-17T12:17:51.613Z"
+  ]
 }
