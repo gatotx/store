@@ -1,14 +1,14 @@
 {
-  "sysGenerator": {
+  "generator": {
+    "storeName": "Dapur Budhe VVIP",
+    "storeTagline": "Premium Pudding & Gorengan Level VVIP No. 1 Dunia",
     "logoUrl": "https://raw.githubusercontent.com/gatotx/gambar/refs/heads/main/IMG-20260704-WA9078.png",
     "colorPrimary": "#075036",
     "colorAccent": "#d4af37",
     "storeStatus": "open",
     "fontFamily": "sans",
     "cornerStyle": "rounded",
-    "themeMode": "auto",
-    "storeName": "gatot kaca",
-    "storeTagline": "undefined"
+    "themeMode": "auto"
   },
   "products": [
     {
@@ -68,63 +68,16 @@
       "fee": 5000
     }
   ],
-  "courierRegistry": [
+  "couriers": [
     {
       "id": "cour-01",
       "name": "Ahmad Santana",
       "email": "ahmad@dapurbudhe.com",
       "pass": "ahmad123",
-      "phone": "08123456789",
       "status": "offline",
       "lastGps": null
-    },
-    {
-      "id": "cour-0868",
-      "name": "alberga",
-      "email": "z@gmail.com",
-      "phone": "+6285215957232",
-      "pass": "123456",
-      "status": "online",
-      "lastGps": {
-        "lat": -6.8766658,
-        "lng": 112.2738481,
-        "timestamp": 1784320977825
-      }
     }
   ],
-  "orders": [
-    {
-      "id": "DB-695397-59",
-      "date": "2026-07-17T20:38:15.400Z",
-      "customer": {
-        "name": "yoyon",
-        "phone": "085215957232",
-        "address": "sedayulawas",
-        "gps": "-6.876671, 112.273853",
-        "note": ""
-      },
-      "items": [
-        {
-          "id": 1,
-          "name": "Premium Lotus Biscoff Pudding",
-          "type": "pudding",
-          "price": 65000,
-          "img": "https://images.unsplash.com/photo-1579954115545-a95e263ab958?auto=format&fit=crop&w=600&q=80",
-          "desc": "Pudding premium lapis biskuit speculoos krispi asli.",
-          "promo": true,
-          "calories": "320 Kcal",
-          "preptime": "15 Mins",
-          "qty": 1,
-          "note": ""
-        }
-      ],
-      "subtotal": 65000,
-      "shippingFee": 3000,
-      "total": 68000,
-      "status": "complete",
-      "courierId": "cour-0868",
-      "liveTrackUrl": null
-    }
-  ],
-  "lastSync": "2026-07-18T04:45:29.464Z"
+  "orders": [],
+  "lastUpdate": "2026-07-18T21:18:49.404Z"
 }
