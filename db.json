@@ -86,9 +86,9 @@
       "pass": "123456",
       "status": "online",
       "lastGps": {
-        "lat": -6.8807061,
-        "lng": 112.2709316,
-        "timestamp": 1784518900015
+        "lat": -6.8807063,
+        "lng": 112.2709189,
+        "timestamp": 1784519638551
       }
     }
   ],
@@ -121,10 +121,10 @@
       "subtotal": 65000,
       "shippingFee": 3000,
       "total": 68000,
-      "status": "otb",
-      "courierId": "cour-2711",
+      "status": "pending",
+      "courierId": null,
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-20T03:53:47.571Z"
+  "lastSync": "2026-07-20T03:53:58.552Z"
 }
