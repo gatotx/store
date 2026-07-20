@@ -84,11 +84,11 @@
       "email": "a@gmail.com",
       "phone": "+6285215957232",
       "pass": "123456",
-      "status": "offline",
+      "status": "online",
       "lastGps": {
         "lat": -6.8807055,
-        "lng": 112.2709292,
-        "timestamp": 1784518763902
+        "lng": 112.2709293,
+        "timestamp": 1784518770732
       }
     }
   ],
@@ -158,5 +158,5 @@
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-20T03:39:28.704Z"
+  "lastSync": "2026-07-20T03:39:30.733Z"
 }
