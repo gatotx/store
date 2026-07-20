@@ -1,14 +1,14 @@
 {
-  "generator": {
-    "storeName": "Dapur Budhe VVIP",
-    "storeTagline": "Premium Pudding & Gorengan Level VVIP No. 1 Dunia",
+  "sysGenerator": {
     "logoUrl": "https://raw.githubusercontent.com/gatotx/gambar/refs/heads/main/IMG-20260704-WA9078.png",
     "colorPrimary": "#075036",
     "colorAccent": "#d4af37",
     "storeStatus": "open",
     "fontFamily": "sans",
     "cornerStyle": "rounded",
-    "themeMode": "auto"
+    "themeMode": "auto",
+    "storeName": "undefined",
+    "storeTagline": "undefined"
   },
   "products": [
     {
@@ -68,25 +68,39 @@
       "fee": 5000
     }
   ],
-  "couriers": [
+  "courierRegistry": [
     {
       "id": "cour-01",
       "name": "Ahmad Santana",
       "email": "ahmad@dapurbudhe.com",
       "pass": "ahmad123",
+      "phone": "08123456789",
       "status": "offline",
       "lastGps": null
+    },
+    {
+      "id": "cour-2711",
+      "name": "yoyon",
+      "email": "a@gmail.com",
+      "phone": "+6285215957232",
+      "pass": "123456",
+      "status": "online",
+      "lastGps": {
+        "lat": -6.8766683,
+        "lng": 112.27385,
+        "timestamp": 1784517342282
+      }
     }
   ],
   "orders": [
     {
-      "id": "DB-616954",
-      "date": "2026-07-18T21:20:16.962Z",
+      "id": "DB-009163-31",
+      "date": "2026-07-20T03:10:09.177Z",
       "customer": {
         "name": "yoyon",
-        "phone": "0852159557232",
-        "address": "sedaYulawas",
-        "gps": "-6.8766669, 112.2738527",
+        "phone": "+6285215957232",
+        "address": "sedayulawas",
+        "gps": "-6.876668, 112.273848",
         "note": ""
       },
       "items": [
@@ -101,16 +115,16 @@
           "calories": "320 Kcal",
           "preptime": "15 Mins",
           "qty": 1,
-          "note": "",
-          "cartId": 1784409402275
+          "note": ""
         }
       ],
       "subtotal": 65000,
       "shippingFee": 3000,
       "total": 68000,
-      "status": "pending",
-      "courierId": null
+      "status": "otb",
+      "courierId": "cour-2711",
+      "liveTrackUrl": null
     }
   ],
-  "lastUpdate": "2026-07-18T21:20:57.890Z"
+  "lastSync": "2026-07-20T03:15:42.286Z"
 }
