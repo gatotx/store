@@ -84,7 +84,7 @@
       "email": "a@gmail.com",
       "phone": "+6285215957232",
       "pass": "123456",
-      "status": "online",
+      "status": "offline",
       "lastGps": {
         "lat": -6.8807055,
         "lng": 112.2709292,
@@ -158,5 +158,5 @@
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-20T03:39:23.904Z"
+  "lastSync": "2026-07-20T03:39:28.704Z"
 }
