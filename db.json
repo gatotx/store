@@ -107,9 +107,9 @@
       "shippingFee": 3000,
       "total": 68000,
       "status": "pending",
-      "courierId": null,
+      "courierId": "cour-01",
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-24T13:15:04.704Z"
+  "lastSync": "2026-07-24T13:16:18.662Z"
 }
