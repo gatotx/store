@@ -6,9 +6,7 @@
     "storeStatus": "open",
     "fontFamily": "sans",
     "cornerStyle": "rounded",
-    "themeMode": "auto",
-    "storeName": "undefined",
-    "storeTagline": "undefined"
+    "themeMode": "auto"
   },
   "products": [
     {
@@ -66,11 +64,6 @@
       "id": 2,
       "keyword": "brondong",
       "fee": 5000
-    },
-    {
-      "id": 3,
-      "keyword": "dengok",
-      "fee": 5000
     }
   ],
   "courierRegistry": [
@@ -82,62 +75,17 @@
       "phone": "08123456789",
       "status": "offline",
       "lastGps": null
-    },
-    {
-      "id": "cour-2711",
-      "name": "yoyon",
-      "email": "a@gmail.com",
-      "phone": "+6285215957232",
-      "pass": "123456",
-      "status": "online",
-      "lastGps": {
-        "lat": -6.8692111,
-        "lng": 112.4058634,
-        "timestamp": 1784531185155
-      }
     }
   ],
   "orders": [
     {
-      "id": "DB-639800-60",
-      "date": "2026-07-20T10:50:39.802Z",
+      "id": "DB-904697-82",
+      "date": "2026-07-24T13:15:04.698Z",
       "customer": {
-        "name": "yoyon",
-        "phone": "+6285215957232",
-        "address": "paciran",
-        "gps": "-6.876661, 112.273848",
-        "note": ""
-      },
-      "items": [
-        {
-          "id": 1,
-          "name": "Premium Lotus Biscoff Pudding",
-          "type": "pudding",
-          "price": 65000,
-          "img": "https://images.unsplash.com/photo-1579954115545-a95e263ab958?auto=format&fit=crop&w=600&q=80",
-          "desc": "Pudding premium lapis biskuit speculoos krispi asli.",
-          "promo": true,
-          "calories": "320 Kcal",
-          "preptime": "15 Mins",
-          "qty": 1,
-          "note": ""
-        }
-      ],
-      "subtotal": 65000,
-      "shippingFee": 10000,
-      "total": 75000,
-      "status": "pending",
-      "courierId": null,
-      "liveTrackUrl": null
-    },
-    {
-      "id": "DB-557808-76",
-      "date": "2026-07-20T03:52:37.808Z",
-      "customer": {
-        "name": "haura",
-        "phone": "+6285215957232",
+        "name": "085215957232",
+        "phone": "085215957232",
         "address": "sedayulawas",
-        "gps": "-6.880706, 112.270929",
+        "gps": "",
         "note": ""
       },
       "items": [
@@ -158,10 +106,10 @@
       "subtotal": 65000,
       "shippingFee": 3000,
       "total": 68000,
-      "status": "complete",
-      "courierId": "cour-2711",
+      "status": "pending",
+      "courierId": null,
       "liveTrackUrl": null
     }
   ],
-  "lastSync": "2026-07-20T10:50:39.834Z"
+  "lastSync": "2026-07-24T13:15:04.704Z"
 }
